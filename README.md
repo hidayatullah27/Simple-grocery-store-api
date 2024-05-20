@@ -338,7 +338,7 @@ Example request body:
 ```
 {
     "cartId": "ZFe4yhG5qNhmuNyrbLWa4",
-    "customerName": "John Doe"
+    "customerName": "Hidayatullah"
 }
 ```
 
@@ -440,8 +440,8 @@ Example request body:
 
 ```
 {
-   "clientName": "Postman on Valentin's computer",
-   "clientEmail": "valentin@example.com"
+   "clientName": "HIdayatullah",
+   "clientEmail": "hidayatullah@example.com"
 }
 ```
 
